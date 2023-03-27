@@ -1,2 +1,2 @@
 # prem
-prem repo react
+prem repo html
